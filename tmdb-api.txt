@@ -1,0 +1,12 @@
+api key => f96ac62d92ada173838748fa0f087eef
+image api => https://image.tmdb.org/t/p/original/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg
+
+api doc => https://developers.themoviedb.org/3/authentication
+
+movie details => https://api.themoviedb.org/3/movie/724089?api_key=f96ac62d92ada173838748fa0f087eef
+
+top rated movies => https://api.themoviedb.org/3/movie/top_rated?api_key=f96ac62d92ada173838748fa0f087eef
+
+get videos => https://api.themoviedb.org/3/movie/724089/videos?api_key=f96ac62d92ada173838748fa0f087eef
+
+if site is youtube get the key and paste here https://youtube.com/watch?v={key}
